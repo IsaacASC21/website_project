@@ -1,0 +1,14 @@
+body {
+    background-color:cyan;
+    font-family: cursive;
+    font-size: ;
+    
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 300%;    
+    
+}
